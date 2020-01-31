@@ -2,9 +2,9 @@
 
 Github repo for notes / JS basics course exercises
 
-https://courses.wesbos.com/account
+[Wes Bos Courses](https://courses.wesbos.com/account)
 
-https://github.com/wesbos/beginner-javascript
+[Beginner JS Github repository](https://github.com/wesbos/beginner-javascript)
 
 adernley@gmail.com
 
