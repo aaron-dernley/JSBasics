@@ -2,6 +2,19 @@
 
 Github repo for notes / JS basics course exercises
 
-https://courses.wesbos.com/account/access/5de11c4cdd20a80c28df1f90
+https://courses.wesbos.com/account
+
+https://github.com/wesbos/beginner-javascript
 
 adernley@gmail.com
+
+browser shortcuts
+cmd + shift + c - inspect element
+option + cmd + j - console
+
+cmdline shortcuts
+cd - change directory
+ls -l - list all directories
+pwd - print working directory
+cd .. - go up a level in directory
+cmd + k - clears out terminal
