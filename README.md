@@ -18,3 +18,9 @@ adernley@gmail.com
 - pwd - print working directory
 - cd .. - go up a level in directory
 - cmd + k - clears out terminal
+
+3. Running JavaScript
+- via devtools console
+- via script tags in html file (before closing body tag for example, after the DOM elements have loaded)
+- via script tag but from an external file (using src= in the script tag)
+- via node.js in the terminal - runs via the node server ('node node-example.js' in the cmdline runs the js file in the node server)
