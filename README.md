@@ -8,13 +8,13 @@ https://github.com/wesbos/beginner-javascript
 
 adernley@gmail.com
 
-browser shortcuts
-cmd + shift + c - inspect element
-option + cmd + j - console
+1. browser shortcuts
+- cmd + shift + c - inspect element
+- option + cmd + j - console
 
-cmdline shortcuts
-cd - change directory
-ls -l - list all directories
-pwd - print working directory
-cd .. - go up a level in directory
-cmd + k - clears out terminal
+2. cmdline shortcuts
+- cd - change directory
+- ls -l - list all directories
+- pwd - print working directory
+- cd .. - go up a level in directory
+- cmd + k - clears out terminal
