@@ -25,7 +25,7 @@ adernley@gmail.com
 - via script tag but from an external file (using src= in the script tag)
 - via node.js in the terminal - runs via the node server ('node node-example.js' in the cmdline runs the js file in the node server)
 
-4. [Variables] (https://github.com/aaron-dernley/JSBasics/blob/master/beginner-javascript-master/playground/variables.html) in JS
+4. [Variables](https://github.com/aaron-dernley/JSBasics/blob/master/beginner-javascript-master/playground/variables.html) in JS
 - let age = 300 - this can be changed if required in a block of code
 - const age = 300 - this cannot be changed in a block of code
 - var age = 300 - can be used when you don't want the above restrictions
