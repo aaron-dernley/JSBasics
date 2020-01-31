@@ -31,3 +31,12 @@ adernley@gmail.com
 - var age = 300 - can be used when you don't want the above restrictions
 - variables don't start with a capital letter, in convention best practice
 - $ and _ can be used in variables - common in loadash and jQuery library
+
+5. 7 Types in JavaScript
+- Strings - ''
+- Numbers - 666
+- Objects - Everything in JS is an object
+- Boolean - True or false
+- Null - defines 0
+- Undefined - defines 0
+- Symbol - always give a unique identifier
