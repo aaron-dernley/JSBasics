@@ -40,3 +40,22 @@ adernley@gmail.com
 - Null - defines 0 - has a value of nothing
 - Undefined - defines 0 - something not yet defined
 - Symbol - always give a unique identifier
+
+6. Functions
+- Built in - thousands of built in functions in the browser
+- Custom - first a function needs defining before it can be called (write code for function, then call if afterwards) e.g.:
+
+// Function Definition
+
+function calculateBill() {
+// Function body
+
+    console.log('running calculate bill');
+    const total = 100 * 1.13; // total * tip - block scoping means this isn't available outside of this function YET
+    console.log(total);
+    return total // addition - this is needed for the total to be available outside of this scope
+}
+
+// Function Call or *Run*
+const myTotal = calculateBill(); // needed in order to use the returned total in the block above ^
+console.log(`Your Total is $${myTotal}`);
