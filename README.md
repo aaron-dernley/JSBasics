@@ -37,6 +37,6 @@ adernley@gmail.com
 - Numbers - 666
 - Objects - Everything in JS is an object
 - Boolean - True or false
-- Null - defines 0
-- Undefined - defines 0
+- Null - defines 0 - has a value of nothing
+- Undefined - defines 0 - something not yet defined
 - Symbol - always give a unique identifier
