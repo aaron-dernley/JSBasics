@@ -65,3 +65,5 @@ const myTotal = calculateBill(); // needed in order to use the returned total in
 console.log(`Your Total is $${myTotal}`);
 
 ```
+
+![Function breakdown](./functionimage)
