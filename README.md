@@ -44,7 +44,7 @@ adernley@gmail.com
 6. Functions
 - Built in - thousands of built in functions in the browser
 - Custom - first a function needs defining before it can be called (write code for function, then call if afterwards) e.g.:
-
+```
 // Function Definition
 
 function calculateBill() {
@@ -59,3 +59,4 @@ function calculateBill() {
 // Function Call or *Run*
 const myTotal = calculateBill(); // needed in order to use the returned total in the block above ^
 console.log(`Your Total is $${myTotal}`);
+```
