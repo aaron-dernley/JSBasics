@@ -66,4 +66,4 @@ console.log(`Your Total is $${myTotal}`);
 
 ```
 
-![Function breakdown](./functionimage)
+![Function breakdown](https://github.com/aaron-dernley/JSBasics/blob/master/functionimage.png)
